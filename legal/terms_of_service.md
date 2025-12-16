@@ -1,8 +1,8 @@
 # Terms of Service for Container Tracker
 
-**Effective Date:** [Date]
+**Effective Date:** 16.Dec.2025
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Container Tracker Google Workspace Add-on (the "Service") operated by [Your Name / Company Name] ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Container Tracker Google Workspace Add-on (the "Service") operated by Container Tracker.
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 
@@ -33,7 +33,7 @@ We may terminate or suspend access to our Service immediately, without prior not
 
 ## 6. Limitation of Liability
 
-In no event shall [Your Name / Company Name], nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
+In no event shall Container Tracker, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:
 *   (i) your access to or use of or inability to access or use the Service;
 *   (ii) any conduct or content of any third party on the Service;
 *   (iii) any content obtained from the Service.
