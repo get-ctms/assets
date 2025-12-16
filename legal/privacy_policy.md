@@ -1,6 +1,6 @@
 # Privacy Policy for Container Tracker
 
-**Last Updated:** [Date]
+**Last Updated:** [16.Dec.2025]
 
 Container Tracker ("we," "us," or "our") has created this Privacy Policy to explain how we collect, use, and share information when you use the Container Tracker Google Workspace Add-on.
 
@@ -15,7 +15,6 @@ When you install and authenticate the Add-on, we access the following personal i
 
 ### B. Spreadsheet Content
 To perform the service of tracking containers, the Add-on accesses data within the **currently active Google Sheet**. Specifically:
-*   We read container numbers or tracking IDs that you select or highlight in your spreadsheet.
 *   We write tracking status updates back into your spreadsheet.
 *   **Note:** We do not access other files in your Google Drive.
 
