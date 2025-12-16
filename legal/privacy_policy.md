@@ -1,6 +1,6 @@
 # Privacy Policy for Container Tracker
 
-**Last Updated:** [16.Dec.2025]
+**Last Updated:** 16.Dec.2025
 
 Container Tracker has created this Privacy Policy to explain how we collect, use, and share information when you use the Container Tracker Google Workspace Add-on.
 
@@ -50,4 +50,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at
 
-**Email:** [ctms.developer@gmail.com]
+**Email:** ctms.developer@gmail.com
